@@ -2,7 +2,7 @@
 
 ## Contextualização
 
-1) Vamos ler o arquivo csv winequality-red.csv, construindo um Data Frame do pandas. Queremos responder:
+1) Primeiro vamos ler o arquivo csv winequality-red.csv, construindo um Data Frame do pandas. Para responder:
 
  - O que representam os dados nas colunas
  - Quantas linhas há no dataset?
